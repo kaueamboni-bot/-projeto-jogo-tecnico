@@ -1,1 +1,1 @@
-# -projeto-jogo-tecnico
+# projeto-jogo-tecnico
